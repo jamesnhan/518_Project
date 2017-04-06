@@ -1,0 +1,23 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Program Description}{}% 2
+\BOOKMARK [1][-]{section.3}{Features and Limitations}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Features}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Limitations}{section.3}% 5
+\BOOKMARK [1][-]{section.4}{Compiling and Running}{}% 6
+\BOOKMARK [1][-]{section.5}{API}{}% 7
+\BOOKMARK [2][-]{subsection.5.1}{DCEL}{section.5}% 8
+\BOOKMARK [2][-]{subsection.5.2}{Event}{section.5}% 9
+\BOOKMARK [3][-]{subsubsection.5.2.1}{EventType}{subsection.5.2}% 10
+\BOOKMARK [2][-]{subsection.5.3}{EventQueue}{section.5}% 11
+\BOOKMARK [2][-]{subsection.5.4}{Face}{section.5}% 12
+\BOOKMARK [2][-]{subsection.5.5}{HalfEdge}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.6}{PersistentRedBlackTreeSet}{section.5}% 14
+\BOOKMARK [3][-]{subsubsection.5.6.1}{RedBlackTreeNode}{subsection.5.6}% 15
+\BOOKMARK [2][-]{subsection.5.7}{Point}{section.5}% 16
+\BOOKMARK [2][-]{subsection.5.8}{PointLocation}{section.5}% 17
+\BOOKMARK [2][-]{subsection.5.9}{Slab}{section.5}% 18
+\BOOKMARK [2][-]{subsection.5.10}{SweepLine}{section.5}% 19
+\BOOKMARK [3][-]{subsubsection.5.10.1}{Segment}{subsection.5.10}% 20
+\BOOKMARK [2][-]{subsection.5.11}{Triangulation}{section.5}% 21
+\BOOKMARK [2][-]{subsection.5.12}{Vertex}{section.5}% 22
+\BOOKMARK [3][-]{subsubsection.5.12.1}{Type}{subsection.5.12}% 23
